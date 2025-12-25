@@ -1,18 +1,22 @@
 ## Title of the Project
-Small description about the project like one below
-The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
+Empathetic Chatbot for Emotion Recognition and Tone Mirroring
+
+## Small description about the project like one below
+The development of an empathetic chatbot aimed at understanding user emotions from speech and text input and responding with emotionally appropriate, tone-mirrored replies to enhance human–computer interaction.
 
 ## About
-<!--Detailed Description about the project-->
-Tailored Chatbot for Hostel Booking System is a project designed to integrate a chatbot that leverages advanced natural language processing techniques to understand and respond to user queries to the hostel booking system. Traditional hostel booking processes are often time-consuming and involve manual searches and extensive communication with hostel staff. This project seeks to overcome these challenges by creating an easy-to-use chatbot interface that assists students in addressing inquiries.
+The Empathetic Chatbot for Emotion Recognition and Tone Mirroring is a conversational AI system designed to identify the emotional state of users and generate empathetic responses accordingly. Traditional chatbots focus mainly on providing factual or task-oriented responses and often fail to consider the emotional context of user interactions. This project addresses that limitation by integrating speech recognition, emotion detection, and controlled response generation into a single unified framework.
+
+The chatbot uses advanced deep learning and natural language processing techniques to transcribe speech input, detect emotions such as sadness, joy, anger, fear, surprise, and love, and generate emotionally aligned responses. The system provides a user-friendly interface that supports real-time interaction, making it suitable for applications such as mental health support, education, customer service, and virtual companionship.
 
 ## Features
-<!--List the features of the project as shown below-->
-- Implements advance neural network method.
-- A framework based application for deployment purpose.
-- High scalability.
-- Less time complexity.
-- A specific scope of Chatbot response model, using json data format.
+Implements transformer-based deep learning models
+Supports both speech and text-based interaction
+Real-time emotion recognition and response generation
+Emotion-aware prompt engineering for tone control
+Framework-based application suitable for deployment
+High scalability and modular system architecture
+Low response latency for real-time use
 
 ## Requirements
 <!--List the requirements of the project as shown below-->
@@ -25,35 +29,30 @@ Tailored Chatbot for Hostel Booking System is a project designed to integrate a 
 * Additional Dependencies: Includes scikit-learn, TensorFlow (versions 2.4.1), TensorFlow GPU, OpenCV, and Mediapipe for deep learning tasks.
 
 ## System Architecture
-<!--Embed the system architecture diagram as shown below-->
 
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
+![WhatsApp Image 2025-12-25 at 9 31 29 PM](https://github.com/user-attachments/assets/49e4b788-c5ac-4599-9555-be7d887cee95)
 
 
 ## Output
 
-<!--Embed the Output picture at respective places as shown below as shown below-->
+<img width="1280" height="593" alt="image" src="https://github.com/user-attachments/assets/54bf23a6-b13f-4a17-98d6-4db9b684c0d2" />
+
+
 #### Output1 - Name of the output
 
-![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
-
-#### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
-
-Detection Accuracy: 96.7%
-Note: These metrics can be customized based on your actual performance evaluations.
+<img width="1280" height="596" alt="image" src="https://github.com/user-attachments/assets/675a72cc-5183-481a-af6c-200b857bd00c" />
 
 
 ## Results and Impact
-<!--Give the results and impact as shown below-->
-The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
+The Empathetic Chatbot enhances the quality of human–computer interaction by incorporating emotional intelligence into conversational systems. By understanding and responding to user emotions, the chatbot provides more natural, supportive, and engaging conversations compared to traditional chatbots.
 
-This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
+The project demonstrates the effective integration of speech recognition, emotion detection, and transformer-based response generation, showcasing the potential of empathetic AI systems in real-world applications. This work serves as a foundation for future advancements in emotionally intelligent virtual assistants and human-centered AI systems.
 
 ## Articles published / References
-1. N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods ”, EAI Endorsed Trans IoT, vol. 10, Mar. 2024.
-2. A. A. BIN ZAINUDDIN, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain”, Data Science Insights, vol. 2, no. 1, Feb. 2024.
-
-
-
-
+```
+1.R. Picard, Affective Computing, MIT Press, 1997.
+2. Vaswani et al., “Attention Is All You Need,” NeurIPS, 2017.
+3. Radford et al., “Language Models are Unsupervised Multitask Learners,” OpenAI, 2019.
+4.OpenAI, “Whisper: Robust Speech Recognition via Large-Scale Weak Supervision,” 2022.
+5.Hugging Face, “Transformers: State-of-the-Art Natural Language Processing,” 2020.
+```
